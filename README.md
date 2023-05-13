@@ -1,7 +1,3 @@
-# Meu Projeto em Node.js
-
-Este é o meu projeto em Node.js que faz uso do Jest para executar testes automatizados.
-
 ## Instalação
 
 1. Certifique-se de ter o Node.js instalado em seu sistema.
