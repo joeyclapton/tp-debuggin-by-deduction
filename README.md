@@ -8,7 +8,7 @@
 
 No diretório do projeto, você pode executar os seguintes comandos:
 
-### `npm test:watch`
+### `npm run test:watch`
 
 Executa os testes usando o Jest no modo de observação contínua. Os testes serão executados automaticamente sempre que houver alterações nos arquivos de teste ou nos arquivos de origem. Isso é útil durante o desenvolvimento, permitindo que você visualize os resultados dos testes em tempo real.
 
